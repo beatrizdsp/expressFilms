@@ -36,4 +36,6 @@ const films = [
   },
 ];
 
-function showFilms() {}
+function showFilms(){
+  console.log(films)
+}

@@ -37,5 +37,10 @@ const films = [
 ];
 
 function showFilms(){
-  console.log(films)
+  const randOptionNum = Math.floor (Math.random()*films.length);
+
+  const parentDiv = document.getElementById('filmList');
+  const childDiv = document.createElement('div')
+  childDiv.innerHTML = '<p>SeeMe</p>'
+  parentDiv.appendChild(childDiv)
 }

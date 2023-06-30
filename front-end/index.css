@@ -1,0 +1,33 @@
+html {
+    background-color: rgb(255, 255, 255);
+    colour: purple;
+}
+h1 {
+    margin: auto;
+    padding: 20px;
+    width: 300px;
+    color: rgb(2, 117, 10);
+    font-size: 35px;
+    font-family: "Century Gothic";
+}
+button {
+    display: block;
+    margin: auto;
+    padding: 20px;
+    width: 300px;
+    background-color: rgb(245, 156, 156);
+    border: 6px black;
+    color: white;
+    font-size: 35px;
+    font-family: "Century Gothic";
+}
+button:hover{
+    background-color: rgb(133, 206, 133);
+    color: rgb(231, 102, 124);
+}
+filmList{
+colour:rgb(218, 5, 5);
+font-size: 40px;
+margin: 20px;
+text-align: center;
+}

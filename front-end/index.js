@@ -20,9 +20,9 @@ const films = [
     release_date: 1999,
   },
   {
-    title: "Finding Nemo",
+    title: "Toy Story",
     rating: 7,
-    release_date: 2003,
+    release_date: 2004,
   },
   {
     title: "ET",
